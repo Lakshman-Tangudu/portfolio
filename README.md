@@ -4,28 +4,28 @@ A clean, minimal, and professional personal portfolio website for Tangudu Maha Y
 
 ## 🚀 Features
 
-- **Modern React Architecture**: Built with React 19 and Vite for optimal performance
-- **Tailwind CSS**: Clean, minimal styling with responsive design
-- **Smooth Animations**: Subtle transitions for better user experience
-- **Fully Responsive**: Mobile-first design that works on all devices
-- **Fast Loading**: Optimized for speed and performance
+- **Modern React Architecture**: Built with React 19 and Vite for optimal performance  
+- **Custom CSS Styling**: Clean, minimal design using pure CSS (no Tailwind)  
+- **Smooth Animations**: Subtle transitions for better user experience  
+- **Fully Responsive**: Mobile-first layout that works across all device sizes  
+- **Fast Loading**: Lightweight build optimized for performance  
 
 ## 📋 Sections
 
-- **Hero**: Introduction with name, title, and call-to-action buttons
-- **About**: Brief bio and key highlights
-- **Skills**: Technical skills organized by category
-- **Projects**: Showcase of key projects with descriptions and links
-- **Education**: Academic background
-- **Certifications**: Professional certifications
-- **Contact**: Contact information and social links
+- **Hero**: Introduction with name, title, and call-to-action buttons  
+- **About**: Brief bio and key highlights  
+- **Skills**: Technical skills organized by category  
+- **Projects**: Showcase of major projects with descriptions and links  
+- **Education**: Academic background  
+- **Certifications**: Professional certifications  
+- **Contact**: Contact information and social links  
 
 ## 🛠️ Tech Stack
 
-- React 19
-- Vite 7
-- Tailwind CSS 3
-- JavaScript (ES6+)
+- React 19  
+- Vite 7  
+- CSS (Custom styling)  
+- JavaScript (ES6+)  
 
 ## 📦 Installation
 
