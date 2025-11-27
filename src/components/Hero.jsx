@@ -18,7 +18,13 @@ const Hero = () => {
           <a href="#projects" className="hero-button-primary">
             View Projects
           </a>
-          <a href="#contact" className="hero-button-secondary">
+          <a 
+            href="/Tangudu_Maha_Yoganandha_Lakshman_Resume (3).pdf" 
+            className="hero-button-secondary"
+            download="Lakshman_Tangudu_Resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Download Resume
           </a>
         </div>

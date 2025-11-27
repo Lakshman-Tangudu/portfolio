@@ -7,15 +7,15 @@ const Projects = () => {
       title: 'Movie App',
       description: 'A responsive movie search app using React.js and TMDB API featuring real-time search, favorites management, error handling, and Jest test cases.',
       techStack: ['React.js', 'TMDB API', 'Jest', 'CSS'],
-      github: '#',
-      demo: '#'
+      github: 'https://github.com/Lakshman-Tangudu/movie-search-app',
+      demo: 'https://lakshman-tangudu.github.io/movie-search-app'
     },
     {
       title: 'URL Shortener Web App',
       description: 'A production-ready URL shortener built with React, Node.js, Express.js, Neon PostgreSQL, and Clerk authentication. Features secure sessions, scalable API, and deployed on Render.',
       techStack: ['React', 'Node.js', 'Express.js', 'PostgreSQL', 'Clerk'],
-      github: '#',
-      demo: '#'
+      github: 'https://github.com/Lakshman-Tangudu/url-shortner',
+      demo: 'https://url-shortner-frontend-1pua.onrender.com/'
     }
   ];
 

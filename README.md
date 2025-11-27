@@ -83,4 +83,4 @@ To customize the content:
 
 - **Email**: tangudulakshman123@gmail.com
 - **Phone**: 9652941415
-- **LinkedIn**: [linkedin.com/in/lakshmantangudu](https://linkedin.com/in/lakshmantangudu)
+- **LinkedIn**: [linkedin.com/in/lakshmantangudu](https://www.linkedin.com/in/lakshmantangudu)

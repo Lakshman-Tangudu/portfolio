@@ -16,7 +16,7 @@ const Contact = () => {
     {
       label: 'LinkedIn',
       value: 'linkedin.com/in/lakshmantangudu',
-      link: 'https://linkedin.com/in/lakshmantangudu'
+      link: 'https://www.linkedin.com/in/lakshman-tangudu-418727313'
     }
   ];
 
