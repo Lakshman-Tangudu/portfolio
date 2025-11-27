@@ -19,7 +19,7 @@ const Hero = () => {
             View Projects
           </a>
           <a 
-            href="/Tangudu_Maha_Yoganandha_Lakshman_Resume (3).pdf" 
+            href="/Tangudu_Maha_Yoganandha_Lakshman_Resume (4).pdf" 
             className="hero-button-secondary"
             download="Lakshman_Tangudu_Resume.pdf"
             target="_blank"
