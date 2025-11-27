@@ -1,0 +1,57 @@
+.certifications {
+  padding: 5rem 1.5rem;
+  background-color: #f9fafb;
+}
+
+.certifications-container {
+  max-width: 56rem;
+  margin: 0 auto;
+}
+
+.certifications-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 3rem;
+  color: #111827;
+}
+
+.certifications-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+.certification-card {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid #e5e7eb;
+}
+
+.certification-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 0.5rem;
+}
+
+.certification-issuer {
+  color: #374151;
+  font-weight: 500;
+}
+
+.certification-year {
+  color: #4b5563;
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+}
+
+@media (min-width: 768px) {
+  .certifications-title {
+    font-size: 3rem;
+  }
+
+  .certifications-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
